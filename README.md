@@ -3,11 +3,7 @@
 A quick starter to build on Ethereum and Polygon! 💜
 >Stack used Next.js, Chakra-UI, Hardhat, Rainbow Wallet, Wagmi 🚀
 
-<br/>
 
-![image](https://bafybeifacspez7tdlba5auczy5qqpqg3mhyakhorp4jvjesyeiaxn33gwm.ipfs.dweb.link/cover.png)
-
-<br/>
 
 
 # 🏄‍♂️ Quick Start
@@ -17,7 +13,7 @@ Prerequisites: [Node (v16 LTS)](https://nodejs.org/en/download/) plus [Yarn](htt
 > clone/fork 🦄 web3-starter-kit:
 
 ```bash
-git clone https://github.com/lakshh07/Web3-Starter-Kit.git
+git clone https://github.com/elvolution20/Web3-Kit.git
 ```
 
 > install your 👷‍ dependencies:
